@@ -1,4 +1,10 @@
 ### Hi there 👋
+Profile under construction.
+
+
+- ⚡ Fun facts;
+
+    The profile icon is credited to <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 <!--
 **noobotpy/noobotpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
